@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task-2_1309\\task-2_1309\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|solutionrelative:task-2_1309\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task-2_1309\\task-2_1309\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|solutionrelative:task-2_1309\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\classes\\Studente.cs",
+              "RelativeDocumentMoniker": "Task-2_1309\\classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\classes\\Studente.cs",
+              "RelativeToolTip": "Task-2_1309\\classes\\Studente.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:20:55.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\Program.cs",
+              "RelativeDocumentMoniker": "Task-2_1309\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\Program.cs",
+              "RelativeToolTip": "Task-2_1309\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T15:17:42.199Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

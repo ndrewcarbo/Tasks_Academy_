@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Calcolatrice_task_13-09/1.0.0": {
+        "runtime": {
+          "Calcolatrice_task_13-09.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Calcolatrice_task_13-09/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

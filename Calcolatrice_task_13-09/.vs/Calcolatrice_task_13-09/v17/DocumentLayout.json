@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Calcolatrice_task_13-09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38A7A6BB-3528-49E7-87B0-E2EBB8585CA2}|Calcolatrice_task_13-09\\Calcolatrice_task_13-09.csproj|c:\\users\\utente\\desktop\\ava_iemme\\calcolatrice_task_13-09\\calcolatrice_task_13-09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38A7A6BB-3528-49E7-87B0-E2EBB8585CA2}|Calcolatrice_task_13-09\\Calcolatrice_task_13-09.csproj|solutionrelative:calcolatrice_task_13-09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09\\Program.cs",
+              "RelativeDocumentMoniker": "Calcolatrice_task_13-09\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09\\Program.cs",
+              "RelativeToolTip": "Calcolatrice_task_13-09\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAAAFIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T12:18:45.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

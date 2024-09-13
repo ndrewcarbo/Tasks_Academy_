@@ -1,0 +1,14 @@
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\bin\Debug\net8.0\Calcolatrice_task_13-09.exe
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\bin\Debug\net8.0\Calcolatrice_task_13-09.deps.json
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\bin\Debug\net8.0\Calcolatrice_task_13-09.runtimeconfig.json
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\bin\Debug\net8.0\Calcolatrice_task_13-09.dll
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\bin\Debug\net8.0\Calcolatrice_task_13-09.pdb
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\obj\Debug\net8.0\Calcolatrice_task_13-09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\obj\Debug\net8.0\Calcolatrice_task_13-09.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\obj\Debug\net8.0\Calcolatrice_task_13-09.AssemblyInfo.cs
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\obj\Debug\net8.0\Calcolatrice_task_13-09.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\obj\Debug\net8.0\Calcolatrice_task_13-09.dll
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\obj\Debug\net8.0\refint\Calcolatrice_task_13-09.dll
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\obj\Debug\net8.0\Calcolatrice_task_13-09.pdb
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\obj\Debug\net8.0\Calcolatrice_task_13-09.genruntimeconfig.cache
+C:\Users\Utente\Desktop\ava_iemme\Calcolatrice_task_13-09\Calcolatrice_task_13-09\obj\Debug\net8.0\ref\Calcolatrice_task_13-09.dll

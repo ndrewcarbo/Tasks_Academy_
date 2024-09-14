@@ -1,14 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\",
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task-2_1309\\task-2_1309\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task-2_1309\\task-2_1309\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|solutionrelative:task-2_1309\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task-2_1309\\task-2_1309\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|solutionrelative:task-2_1309\\classes\\studente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task-2_1309\\task-2_1309\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|solutionrelative:task-2_1309\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task-2_1309\\task-2_1309\\classes\\academy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B1A5533-DBAE-4E33-91B0-E924E5D061D2}|Task-2_1309\\Task-2_1309.csproj|solutionrelative:task-2_1309\\classes\\academy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +22,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Studente.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\classes\\Studente.cs",
-              "RelativeDocumentMoniker": "Task-2_1309\\classes\\Studente.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\classes\\Studente.cs",
-              "RelativeToolTip": "Task-2_1309\\classes\\Studente.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAALAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "Academy.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\classes\\Academy.cs",
+              "RelativeDocumentMoniker": "Task-2_1309\\classes\\Academy.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\classes\\Academy.cs",
+              "RelativeToolTip": "Task-2_1309\\classes\\Academy.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:20:55.265Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-14T14:13:29.788Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\Program.cs",
-              "RelativeDocumentMoniker": "Task-2_1309\\Program.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\Program.cs",
-              "RelativeToolTip": "Task-2_1309\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Studente.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\classes\\Studente.cs",
+              "RelativeDocumentMoniker": "Task-2_1309\\classes\\Studente.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\classes\\Studente.cs",
+              "RelativeToolTip": "Task-2_1309\\classes\\Studente.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T15:17:42.199Z",
+              "WhenOpened": "2024-09-14T14:06:30.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\Program.cs",
+              "RelativeDocumentMoniker": "Task-2_1309\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\Program.cs",
+              "RelativeToolTip": "Task-2_1309\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T14:01:38.252Z",
               "EditorCaption": ""
             }
           ]

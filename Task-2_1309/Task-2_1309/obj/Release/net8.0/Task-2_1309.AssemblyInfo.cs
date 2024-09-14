@@ -12,9 +12,9 @@ using System;
 using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Task-2_1309")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c7b0fff8b108eb4255005889e72c736021eccaad")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4feee1ac4b7be9aef0a2c8f7c88021324836c0ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Task-2_1309")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Task-2_1309")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

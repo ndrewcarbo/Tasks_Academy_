@@ -1,0 +1,15 @@
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\obj\Debug\net8.0\Task-2_1309.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\obj\Debug\net8.0\Task-2_1309.AssemblyInfoInputs.cache
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\obj\Debug\net8.0\Task-2_1309.AssemblyInfo.cs
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\obj\Debug\net8.0\Task-2_1309.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\obj\Debug\net8.0\Task-2_1309.sourcelink.json
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\bin\Debug\net8.0\Task-2_1309.exe
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\bin\Debug\net8.0\Task-2_1309.deps.json
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\bin\Debug\net8.0\Task-2_1309.runtimeconfig.json
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\bin\Debug\net8.0\Task-2_1309.dll
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\bin\Debug\net8.0\Task-2_1309.pdb
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\obj\Debug\net8.0\Task-2_1309.dll
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\obj\Debug\net8.0\refint\Task-2_1309.dll
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\obj\Debug\net8.0\Task-2_1309.pdb
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\obj\Debug\net8.0\Task-2_1309.genruntimeconfig.cache
+C:\Users\Utente\Desktop\Tasks_13SETT\Task-2_1309\Task-2_1309\obj\Debug\net8.0\ref\Task-2_1309.dll

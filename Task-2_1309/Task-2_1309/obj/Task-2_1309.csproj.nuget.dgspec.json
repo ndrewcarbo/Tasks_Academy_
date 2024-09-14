@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\Task-2_1309.csproj": {}
+    "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\Task-2_1309.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\Task-2_1309.csproj": {
+    "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\Task-2_1309.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\Task-2_1309.csproj",
+        "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\Task-2_1309.csproj",
         "projectName": "Task-2_1309",
-        "projectPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\Task-2_1309.csproj",
+        "projectPath": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\Task-2_1309.csproj",
         "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Task-2_1309\\Task-2_1309\\obj\\",
+        "outputPath": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Task-2_1309\\Task-2_1309\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

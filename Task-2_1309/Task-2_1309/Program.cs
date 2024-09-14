@@ -6,14 +6,42 @@ namespace Task_2_1309
     {
         static void Main(string[] args)
         {
-           
-            
-            
-            List<Studente> elencoStu = new List<Studente>();
+
+
+
+            bool inserimento = true;
+
+            while (inserimento)
+            {
+                {
+                    Console.WriteLine("BENVENUTO NELL' UNIVERSITA: \n" +
+                                    "Premi I per iscriverti");
+                    string? inputStud = Console.ReadLine();
+                    if (inputStud is null)
+                        Console.WriteLine("Specifica un comando");
+                    else
+                    {
+                        switch (inputStud)
+                        {
+                            case "I":
+                                Studente studuno = new Studente();
+                                break;
+
+                        }
 
 
 
 
+                    }
+
+
+
+
+
+
+
+                }
+            }
         }
     }
 }

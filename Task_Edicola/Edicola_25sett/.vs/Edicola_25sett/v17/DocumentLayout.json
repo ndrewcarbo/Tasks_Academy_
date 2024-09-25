@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|c:\\users\\utente\\desktop\\ava_iemme\\edicola_25sett\\edicola_25sett\\models\\dal\\rivitadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|solutionrelative:edicola_25sett\\models\\dal\\rivitadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|c:\\users\\utente\\desktop\\ava_iemme\\edicola_25sett\\edicola_25sett\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|solutionrelative:edicola_25sett\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|c:\\users\\utente\\desktop\\ava_iemme\\edicola_25sett\\edicola_25sett\\models\\giocattolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|solutionrelative:edicola_25sett\\models\\giocattolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|c:\\users\\utente\\desktop\\ava_iemme\\edicola_25sett\\edicola_25sett\\models\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|solutionrelative:edicola_25sett\\models\\rivista.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|c:\\users\\utente\\desktop\\ava_iemme\\edicola_25sett\\edicola_25sett\\models\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|solutionrelative:edicola_25sett\\models\\dal\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|c:\\users\\utente\\desktop\\ava_iemme\\edicola_25sett\\edicola_25sett\\models\\dal\\giocattolodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|solutionrelative:edicola_25sett\\models\\dal\\giocattolodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|c:\\users\\utente\\desktop\\ava_iemme\\edicola_25sett\\edicola_25sett\\models\\dal\\idaoscrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|solutionrelative:edicola_25sett\\models\\dal\\idaoscrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|c:\\users\\utente\\desktop\\ava_iemme\\edicola_25sett\\edicola_25sett\\models\\dal\\idaolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9198D671-D9D1-4A71-9EA3-DE09CA5C9326}|Edicola_25sett\\Edicola_25sett.csproj|solutionrelative:edicola_25sett\\models\\dal\\idaolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rivista.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\Rivista.cs",
+              "RelativeDocumentMoniker": "Edicola_25sett\\Models\\Rivista.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\Rivista.cs",
+              "RelativeToolTip": "Edicola_25sett\\Models\\Rivista.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:59:03.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Config.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\DAL\\Config.cs",
+              "RelativeDocumentMoniker": "Edicola_25sett\\Models\\DAL\\Config.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\DAL\\Config.cs",
+              "RelativeToolTip": "Edicola_25sett\\Models\\DAL\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:25:51.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RivitaDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\DAL\\RivitaDAO.cs",
+              "RelativeDocumentMoniker": "Edicola_25sett\\Models\\DAL\\RivitaDAO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\DAL\\RivitaDAO.cs",
+              "RelativeToolTip": "Edicola_25sett\\Models\\DAL\\RivitaDAO.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAwEsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:23:47.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GiocattoloDAO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\DAL\\GiocattoloDAO.cs",
+              "RelativeDocumentMoniker": "Edicola_25sett\\Models\\DAL\\GiocattoloDAO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\DAL\\GiocattoloDAO.cs",
+              "RelativeToolTip": "Edicola_25sett\\Models\\DAL\\GiocattoloDAO.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAADwv10AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:23:29.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDAOScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\DAL\\IDAOScrittura.cs",
+              "RelativeDocumentMoniker": "Edicola_25sett\\Models\\DAL\\IDAOScrittura.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\DAL\\IDAOScrittura.cs",
+              "RelativeToolTip": "Edicola_25sett\\Models\\DAL\\IDAOScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:01:13.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDAOLettura.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\DAL\\IDAOLettura.cs",
+              "RelativeDocumentMoniker": "Edicola_25sett\\Models\\DAL\\IDAOLettura.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\DAL\\IDAOLettura.cs",
+              "RelativeToolTip": "Edicola_25sett\\Models\\DAL\\IDAOLettura.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T15:00:51.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Giocattolo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\Giocattolo.cs",
+              "RelativeDocumentMoniker": "Edicola_25sett\\Models\\Giocattolo.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Models\\Giocattolo.cs",
+              "RelativeToolTip": "Edicola_25sett\\Models\\Giocattolo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:58:43.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Program.cs",
+              "RelativeDocumentMoniker": "Edicola_25sett\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Edicola_25sett\\Edicola_25sett\\Program.cs",
+              "RelativeToolTip": "Edicola_25sett\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T14:56:50.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

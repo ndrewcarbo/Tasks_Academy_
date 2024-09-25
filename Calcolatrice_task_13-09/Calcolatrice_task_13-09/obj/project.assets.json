@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09.csproj",
+      "projectUniqueName": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09.csproj",
       "projectName": "Calcolatrice_task_13-09",
-      "projectPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09.csproj",
+      "projectPath": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09.csproj",
       "packagesPath": "C:\\Users\\Utente\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09\\obj\\",
+      "outputPath": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\Calcolatrice_task_13-09\\Calcolatrice_task_13-09\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

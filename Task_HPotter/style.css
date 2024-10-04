@@ -1,0 +1,14 @@
+body {
+    background-color: #000000aa;
+}
+
+.doro {
+    color: goldenrod;
+}
+
+.sfondo {
+    background-image: url(/img/sfondo.PNG);
+    background-repeat: repeat-x;
+    background-size: 100px;
+    background-position: bottom center;
+}

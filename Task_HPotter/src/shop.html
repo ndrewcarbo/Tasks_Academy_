@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css"
+    integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+  <link rel="stylesheet" href="/style.css">
+
+
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-lg navbar-light bg-dark">
+    <img src="/img/casate-removebg-preview.png" width="80px" alt="logo"><a class="navbar-brand" href="#"></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+      aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link text-warning" href="/index.html">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link text-warning" href="#">Shop</a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle text-warning" href="#" role="button" data-toggle="dropdown"
+            aria-expanded="false">
+            Casate
+          </a>
+          <div class="dropdown-menu">
+            <a class="dropdown-item text-warning" href="/src/dettaglicasata.html">Grifondoro<img
+                src="/img/grifondoro.PNG" width="50px" alt="grifon"></a>
+            <a class="dropdown-item text-success" href="/src/dettaglicasata.html">Serpeverde<img
+                src="/img/serpeverde.PNG" width="50px" alt="serpe"> </a>
+            <a class="dropdown-item text-primary" href="/src/dettaglicasata.html">Corvonero<img
+                src="/img/corvonero.PNG" width="50px" alt="corvo"></a>
+            <div class="dropdown-divider"></div>
+            <a class="dropdown-item text-danger" href="/src/dettaglicasata.html">Tassorosso<img
+                src="/img/Tassorosso.PNG" width="50px" alt="tass"></a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+
+
+
+  <div class="container">
+    <div class="row">
+      <div class="col md-6">
+        <h1 class="text-warning">Inserisci Bacchette</h1>
+
+        <div class="form-group">
+          <label for="input-cod">Code</label>
+          <input type="text" class="form-control text-warning" id="input-cod" />
+        </div>
+        <div class="form-group">
+          <label for="input-mate">materiale</label>
+          <input type="text" class="form-control text-warning" id="input-mate" />
+        </div>
+        <div class="form-group">
+          <label for="input-nucleo">nucleo</label>
+          <input type="text" class="form-control text-warning" id="input-nucleo" />
+        </div>
+        <div class="form-group">
+          <label for="input-lunghezza">lunghezza</label>
+          <input type="number" min=0 max=100 class="form-control text-warning" id="input-lunghezza" />
+        </div>
+        <div class="form-group">
+          <div class="form-group">
+            <label for="input-mago">PROPIETARIO</label>
+            <input type="text" class="form-control text-warning" id="input-mago" />
+          </div>
+          <!-- <div class="dropdown">
+              <button class="btn btn-secondary dropdown-toggle" type="button" data-toggle="dropdown" aria-expanded="false">
+                Casata
+              </button>
+              <div class="dropdown-menu">
+                <a class="dropdown-item"  href="dettaglicasata.html">Grifondoro</a>
+                <a class="dropdown-item" href="dettaglicasata.html">Serpeverde</a>
+                <a class="dropdown-item" href="dettaglicasata.html">Tassorosso</a>
+                <a class="dropdown-item" href="dettaglicasata.html">Corvonero</a>
+              </div> -->
+          <!-- </div> -->
+          <div class="form-group">
+            <label for="input-casata">casata</label>
+            <input type="text" class="form-control text-warning" id="input-casata" />
+          </div>
+        </div>
+        <div class="form-group">
+          <label for="input-foto">Foto</label>
+          <input type="text" class="form-control" id="input-foto" />
+        </div>
+
+        <button type="button" class="btn btn-success" onclick="addBacc()">ADD</button>
+        <button type="button" class="btn btn-primary" onclick="StampaBacc()">Bacchette</button>
+      </div>
+
+
+
+
+
+
+
+
+      <div class="row">
+        <div class="col-md-6">
+          <table class="table table-striped text-warning">
+            <thead>
+              <tr>
+                <th>#</th>
+                <th>Codice</th>
+                <th>Materiale</th>
+                <th>Nucleo</th>
+                <th>Bacchette</th>
+                <th>Resistenza</th>
+                <th>Propietario</th>
+                <th>Casata</th>
+                <th>Foto</th>
+              </tr>
+            </thead>
+            <tbody id="corpo-tabella-shop">
+
+            </tbody>
+          </table>
+        </div>
+
+      </div>
+
+      <div class="row">
+        <div class="col md-12">
+          <div class="modal fade" id="modaleModifica" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modifica</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                </div>
+                <div class="modal-body">
+    
+                    <div class="form-group">
+                        <label for="input-mago">Propietario</label>
+                        <input type="text" class="form-control" id="input-mago"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="input-casata">Casata</label>
+                        <input type="text" class="form-control" id="input-casata"/>
+                    </div>
+                    
+    
+                </div>
+                <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-primary" id="btn-salva" data-identif="" onclick="modifica(this)">Salva</button>
+                </div>
+            </div>
+            </div>
+        </div>
+        </div>
+      </div>
+
+
+
+
+
+
+      <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+      <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-Fy6S3B9q64WdZWQUiU+q4/2Lc9npb8tCaSX9FK7E8HnRr0Jz8D6OP9dO5Vg3Q9ct"
+        crossorigin="anonymous"></script>
+      <script src="/script.js"></script>
+      <script src="/shop.js"></script>
+</body>
+
+</html>

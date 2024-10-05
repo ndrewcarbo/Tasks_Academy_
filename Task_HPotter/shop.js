@@ -43,8 +43,17 @@ const addBacc = () =>{
 }
 
 
-oli.push(newBac);
+    oli.push(newBac);
     localStorage.setItem("SHOP",JSON.stringify(oli));
+
+    // azzero tutto
+
+    document.getElementById("input-cod").value = ""
+    document.getElementById("input-mate").value = ""
+    document.getElementById("input-nucleo").value = ""
+    document.getElementById("input-lunghezza").value = ""
+    document.getElementById("input-casata").value = ""
+    document.getElementById("input-foto").value = ""
 
 
 

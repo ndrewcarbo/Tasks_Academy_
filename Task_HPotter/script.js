@@ -38,6 +38,12 @@ const aggiungi = () =>{
    
     local.push(newCas);
     localStorage.setItem("Hogwarts", JSON.stringify(local))
+
+    document.getElementById("id-nome").value="";
+    document.getElementById("id-desc").value="";
+    document.getElementById("id-logo").value="";
+    document.getElementById("id-num-bac").value="";
+
     StampaCasate();
 }
 
@@ -56,7 +62,10 @@ const  StampaCasate = () =>{
             <td>${item.descrizione}</td>
             <td>${item.logo}</td>
             <td>${item.bacchette}</td>
+            <td><button class="btn btn-outline-danger" onclick="">Rimuovi Casata</button></td>
         </tr>
+
+        
         `;
     }
     document.getElementById("corpo-tabella-casata").innerHTML = contenitore

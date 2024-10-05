@@ -10,7 +10,7 @@
 
 
 
-function elimina(index){
+const elimina = (index) =>{
     let oli = localStorage.getItem("SHOP") != null ? JSON.parse(localStorage.getItem("SHOP")) : [];
 
     oli.splice(index,1);
@@ -21,7 +21,7 @@ function elimina(index){
 
 }
 
-function addBacc (){
+const addBacc = () =>{
    let oli = localStorage.getItem("SHOP") != null ? JSON.parse(localStorage.getItem("SHOP")) : [];
 
    let varCode = document.getElementById("input-cod").value
@@ -51,7 +51,7 @@ oli.push(newBac);
 }
 
 
-function StampaBac (){
+const StampaBac = () =>{
     let oli = localStorage.getItem("SHOP") != null ? JSON.parse(localStorage.getItem("SHOP")) : []; //controllo se è nullo altrimenti è vuoto
 
     let elebac = "";
@@ -86,7 +86,7 @@ function StampaBac (){
 
 StampaBac();
 
-function modifica(indice){
+const modifica = (indice) =>{
     $("#modaleModifica").modal('show');
     $("#btn-salva").data('identif', indice);
 
@@ -101,14 +101,10 @@ function modifica(indice){
     }
 }
 
-function salva(varBottone){
-
-    let posizione = $(varBottone).data('identif')
-    
-    let varCasa = document.getElementById("input-casata").value;
-
-    let oli = localStorage.getItem("SHOP") != null 
-                            ? JSON.parse(localStorage.getItem("SHOP")) : [];
+const salva = (varBottone) => {
+let posizione = $(varBottone).data('identif')
+let varCasa = document.getElementById("input-casata").value;
+let oli = localStorage.getItem("SHOP") != null ? JSON.parse(localStorage.getItem("SHOP")) : [];
 
     for(let [index, item] of oli.entries()){
         if(index == posizione){

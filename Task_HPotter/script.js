@@ -17,7 +17,7 @@
 //     -LOGO
 //     -numero di bacchette
 
-function aggiungi(){
+const aggiungi = () =>{
     let local = localStorage.getItem("Hogwarts") != null ? JSON.parse(localStorage.getItem("Hogwarts")) : []; //controllo se è nullo altrimenti è vuoto
 
     //let idx = document.getElementById("id-idx").value
@@ -42,7 +42,7 @@ function aggiungi(){
 }
 
 
-function StampaCasate (){
+const  StampaCasate = () =>{
     let local = localStorage.getItem("Hogwarts") != null 
     ? JSON.parse(localStorage.getItem("Hogwarts")) : []; //controllo se è nullo altrimenti è vuoto
 
@@ -65,13 +65,32 @@ function StampaCasate (){
 
 StampaCasate();
 
-// function DettaglioCasata(){
-    
+// function Dettaglio(){
+//     let contenitore = ""
 //     let grifn = document.getElementById("grifondoro")
 //     let serp = document.getElementById("serpeverde")
 //     let corv = document.getElementById("sorvonero")
 //     let tass = document.getElementById("tassorosso")
 //     let arrId = [grifn,serp,corv,tass]
+
+//     for(let [index,item] of arrId){
+//         contenitore +=`
+//         <tr>
+//             <td>${index + 1}</td>
+//             <td>${item.nome} </td>
+//             <td>${item.descrizione} </td>
+//             <td>${item.logo}, <img src="img/grifondoro.PNG" alt="grifondoro"></td>
+//             <td>${item.bacchette}</td>
+//         </tr>
+        
+//         `;
+//     }
+//     document.getElementById("corpo-casa").innerHTML = contenitore
+    
+// }
+
+// function DettaglioCasata(){
+    
 
 
 
@@ -112,3 +131,5 @@ StampaCasate();
 
 
 // }
+
+

@@ -90,14 +90,38 @@ function modifica(indice){
     $("#modaleModifica").modal('show');
     $("#btn-salva").data('identif', indice);
 
-    let elencoLocale = localStorage.getItem("scuola") != null 
-                            ? JSON.parse(localStorage.getItem("scuola")) : [];
+    let oli = localStorage.getItem("SHOP") != null 
+                            ? JSON.parse(localStorage.getItem("SHOP")) : [];
 
     for(let [index, item] of elencoLocale.entries()){
-        if(indice == index){
-            $("#input-nome").val(item.nome);                                //Notazione JQuery
+        if(indice == index){                          
             document.getElementById("input-casata").value = item.casata;
             
         }
     }
 }
+
+function salva(varBottone){
+
+    let posizione = $(varBottone).data('identif')
+    
+    let varCasa = document.getElementById("input-casata").value;
+
+    let oli = localStorage.getItem("SHOP") != null 
+                            ? JSON.parse(localStorage.getItem("SHOP")) : [];
+
+    for(let [index, item] of oli.entries()){
+        if(index == posizione){
+            
+            item.casata = varCasa;
+
+            localStorage.setItem("SHOP", JSON.stringify(oli));
+            StampaBac();
+            $("#modaleModifica").modal('hide');
+            return;
+        }
+    }
+}
+
+
+

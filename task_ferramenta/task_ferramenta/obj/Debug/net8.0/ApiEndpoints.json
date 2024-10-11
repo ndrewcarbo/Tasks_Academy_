@@ -1,0 +1,92 @@
+[
+  {
+    "ContainingType": "task_ferramenta.Controllers.ProdottoController",
+    "Method": "InserisciProdotto",
+    "RelativePath": "api/prodotto",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nuovoProd",
+        "Type": "task_ferramenta.Models.ProdottoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "task_ferramenta.Controllers.ProdottoController",
+    "Method": "Elimina",
+    "RelativePath": "api/prodotto",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "task_ferramenta.Controllers.ProdottoController",
+    "Method": "ModificaProdotto",
+    "RelativePath": "api/prodotto",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "prObj",
+        "Type": "task_ferramenta.Models.ProdottoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "task_ferramenta.Controllers.ProdottoController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/prodotto/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "task_ferramenta.Models.ProdottoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "task_ferramenta.Controllers.RepartoController",
+    "Method": "CercaPerCodice",
+    "RelativePath": "api/reparto/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

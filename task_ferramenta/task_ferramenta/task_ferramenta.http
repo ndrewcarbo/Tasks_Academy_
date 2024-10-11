@@ -1,0 +1,6 @@
+@task_ferramenta_HostAddress = http://localhost:5225
+
+GET {{task_ferramenta_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

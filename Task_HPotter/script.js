@@ -62,7 +62,7 @@ const  StampaCasate = () =>{
             <td>${item.descrizione}</td>
             <td>${item.logo}</td>
             <td>${item.bacchette}</td>
-            <td><button class="btn btn-outline-danger" onclick="">Rimuovi Casata</button></td>
+            <td><button class="btn btn-outline-danger" onclick="elimina(${index})">Rimuovi Casata</button></td>
         </tr>
 
         

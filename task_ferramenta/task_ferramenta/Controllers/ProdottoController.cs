@@ -21,7 +21,7 @@ namespace task_ferramenta.Controllers
 
 
         [HttpGet("{varCodice}")]
-        public ActionResult<ProdottoDTO> CercaPerCodice(string varCodice)
+        public ActionResult<ProdottoDTO?> CercaPerCodice(string varCodice)
         {
             if (string.IsNullOrWhiteSpace(varCodice))
                 return BadRequest();
@@ -60,11 +60,21 @@ namespace task_ferramenta.Controllers
         [HttpPut]
         public IActionResult ModificaProdotto(ProdottoDTO prObj)
         {
+            if(prObj is not null)
+            {
             _service.Modifica(prObj);
             return Ok();
+
+            }
 
             return BadRequest();
         }
 
+        [HttpGet]
+        public ActionResult<IEnumerable<ProdottoDTO>> guardaNelMagazzino()
+        {
+
+            return Ok(_service.Inventario());
+        }
     }
 }

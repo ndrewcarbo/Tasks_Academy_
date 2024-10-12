@@ -16,12 +16,47 @@ namespace task_ferramenta.Services
 
         public ProdottoDTO? Cerca(string varCod)
         {
-            throw new NotImplementedException();
+            ProdottoDTO? risultato = null;
+
+            Prodotto? prod = _repository.CercaperCodice(varCod);
+            if (prod is not null )
+            {
+                risultato = new ProdottoDTO()
+                {
+                    Cod = prod.CodiceBarre,
+                    Nom = prod.Nome,
+                    Desc = prod.Descrizione,
+                    Prez = prod.Prezzo,
+                    Quan = prod.Quantita
+                };
+            }
+
+
+            return risultato;
         }
 
-        public IEnumerable<ProdottoDTO> Lista()
+        public IEnumerable<ProdottoDTO> Inventario()
         {
-            throw new NotImplementedException();
+            ICollection<ProdottoDTO?> risultato = new List<ProdottoDTO>();
+
+            IEnumerable<Prodotto> prodotti = _repository.GetAll();
+
+            foreach (Prodotto p  in prodotti) {
+
+                ProdottoDTO prod = new ProdottoDTO()
+                {
+                    Cod = p.CodiceBarre,
+                    Nom = p.Nome,
+                    Desc = p.Descrizione,
+                    Prez = p.Prezzo,
+                    Quan = p.Quantita
+                };
+
+                risultato.Add(prod);
+            }
+
+
+            return risultato;
         }
 
         public bool InserisciProdotto(ProdottoDTO nuovoProd)
@@ -68,6 +103,11 @@ namespace task_ferramenta.Services
             };
 
             return _repository.Update(temp);
+        }
+
+        public IEnumerable<ProdottoDTO> Lista()
+        {
+            throw new NotImplementedException();
         }
     }
 }

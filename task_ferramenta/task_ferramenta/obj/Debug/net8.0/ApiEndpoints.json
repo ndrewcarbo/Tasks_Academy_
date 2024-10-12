@@ -49,6 +49,26 @@
   },
   {
     "ContainingType": "task_ferramenta.Controllers.ProdottoController",
+    "Method": "guardaNelMagazzino",
+    "RelativePath": "api/prodotto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[task_ferramenta.Models.ProdottoDTO, task_ferramenta, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "task_ferramenta.Controllers.ProdottoController",
     "Method": "CercaPerCodice",
     "RelativePath": "api/prodotto/{varCodice}",
     "HttpMethod": "GET",

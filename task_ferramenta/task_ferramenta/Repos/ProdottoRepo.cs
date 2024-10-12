@@ -68,6 +68,11 @@ namespace task_ferramenta.Repos
             return _context.Prodottos.Find(id);
         }
 
+        public Prodotto? CercaperCodice(string varCode)
+        {
+            return _context.Prodottos.FirstOrDefault(c => c.CodiceBarre == varCode);
+        }
+
         public IEnumerable<Prodotto> GetAll()
         {
             return _context.Prodottos.ToList();

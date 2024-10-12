@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\",
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\services\\prodottoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\controllers\\prodottocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\repos\\prodottorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\services\\repartoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\repos\\irepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\repos\\irepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\models\\prodotto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\models\\ferramentactx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\models\\ferramentactx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\models\\ferramentactx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\models\\reparto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\models\\prodottodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\repos\\repartorepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\controllers\\repartocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\repos\\irepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\repos\\irepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|c:\\users\\utente\\desktop\\tasks_13sett\\task_ferramenta\\task_ferramenta\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4F83C05-2C7C-45F5-8437-ABF4CF516D9F}|task_ferramenta\\task_ferramenta.csproj|solutionrelative:task_ferramenta\\models\\repartodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,76 +62,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProdottoService.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Services\\ProdottoService.cs",
-              "RelativeDocumentMoniker": "task_ferramenta\\Services\\ProdottoService.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Services\\ProdottoService.cs",
-              "RelativeToolTip": "task_ferramenta\\Services\\ProdottoService.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwEMAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ProdottoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeDocumentMoniker": "task_ferramenta\\Controllers\\ProdottoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Controllers\\ProdottoController.cs",
+              "RelativeToolTip": "task_ferramenta\\Controllers\\ProdottoController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAEUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:10:56.13Z",
+              "WhenOpened": "2024-10-11T17:41:56.652Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Reparto.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Models\\Reparto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Models\\Reparto.cs",
               "RelativeDocumentMoniker": "task_ferramenta\\Models\\Reparto.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Models\\Reparto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Models\\Reparto.cs",
               "RelativeToolTip": "task_ferramenta\\Models\\Reparto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T17:13:55.081Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProdottoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Models\\ProdottoDTO.cs",
+              "RelativeDocumentMoniker": "task_ferramenta\\Models\\ProdottoDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Models\\ProdottoDTO.cs",
+              "RelativeToolTip": "task_ferramenta\\Models\\ProdottoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:15:47.756Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IRepos.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Repos\\IRepos.cs",
-              "RelativeDocumentMoniker": "task_ferramenta\\Repos\\IRepos.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Repos\\IRepos.cs",
-              "RelativeToolTip": "task_ferramenta\\Repos\\IRepos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Title": "FerramentaCtx.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Models\\FerramentaCtx.cs",
+              "RelativeDocumentMoniker": "task_ferramenta\\Models\\FerramentaCtx.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Models\\FerramentaCtx.cs",
+              "RelativeToolTip": "task_ferramenta\\Models\\FerramentaCtx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:47:14.406Z"
+              "WhenOpened": "2024-10-11T17:07:34.315Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RepartoController.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Controllers\\RepartoController.cs",
-              "RelativeDocumentMoniker": "task_ferramenta\\Controllers\\RepartoController.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Controllers\\RepartoController.cs",
-              "RelativeToolTip": "task_ferramenta\\Controllers\\RepartoController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Program.cs",
+              "RelativeDocumentMoniker": "task_ferramenta\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Program.cs",
+              "RelativeToolTip": "task_ferramenta\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:42:20.807Z"
+              "WhenOpened": "2024-10-11T17:45:27.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RepartoRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Repos\\RepartoRepo.cs",
-              "RelativeDocumentMoniker": "task_ferramenta\\Repos\\RepartoRepo.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Repos\\RepartoRepo.cs",
-              "RelativeToolTip": "task_ferramenta\\Repos\\RepartoRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ProdottoService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Services\\ProdottoService.cs",
+              "RelativeDocumentMoniker": "task_ferramenta\\Services\\ProdottoService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Services\\ProdottoService.cs",
+              "RelativeToolTip": "task_ferramenta\\Services\\ProdottoService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwBIAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:49:24.054Z"
+              "WhenOpened": "2024-10-11T18:10:56.13Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "RepartoService.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Services\\RepartoService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Services\\RepartoService.cs",
               "RelativeDocumentMoniker": "task_ferramenta\\Services\\RepartoService.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Services\\RepartoService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Services\\RepartoService.cs",
               "RelativeToolTip": "task_ferramenta\\Services\\RepartoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -139,71 +152,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProdottoController.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Controllers\\ProdottoController.cs",
-              "RelativeDocumentMoniker": "task_ferramenta\\Controllers\\ProdottoController.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Controllers\\ProdottoController.cs",
-              "RelativeToolTip": "task_ferramenta\\Controllers\\ProdottoController.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAwD4AAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:41:56.652Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ProdottoRepo.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Repos\\ProdottoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Repos\\ProdottoRepo.cs",
               "RelativeDocumentMoniker": "task_ferramenta\\Repos\\ProdottoRepo.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Repos\\ProdottoRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Repos\\ProdottoRepo.cs",
               "RelativeToolTip": "task_ferramenta\\Repos\\ProdottoRepo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwEYAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-11T17:49:06.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProdottoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Models\\ProdottoDTO.cs",
-              "RelativeDocumentMoniker": "task_ferramenta\\Models\\ProdottoDTO.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Models\\ProdottoDTO.cs",
-              "RelativeToolTip": "task_ferramenta\\Models\\ProdottoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:15:47.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Program.cs",
-              "RelativeDocumentMoniker": "task_ferramenta\\Program.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Program.cs",
-              "RelativeToolTip": "task_ferramenta\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCMAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:45:27.788Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RepartoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Models\\RepartoDTO.cs",
-              "RelativeDocumentMoniker": "task_ferramenta\\Models\\RepartoDTO.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Models\\RepartoDTO.cs",
-              "RelativeToolTip": "task_ferramenta\\Models\\RepartoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T18:15:32.535Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 5,
               "Title": "Prodotto.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Models\\Prodotto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Models\\Prodotto.cs",
               "RelativeDocumentMoniker": "task_ferramenta\\Models\\Prodotto.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Models\\Prodotto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Models\\Prodotto.cs",
               "RelativeToolTip": "task_ferramenta\\Models\\Prodotto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,15 +176,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "FerramentaCtx.cs",
-              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Models\\FerramentaCtx.cs",
-              "RelativeDocumentMoniker": "task_ferramenta\\Models\\FerramentaCtx.cs",
-              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_ferramenta\\task_ferramenta\\Models\\FerramentaCtx.cs",
-              "RelativeToolTip": "task_ferramenta\\Models\\FerramentaCtx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "RepartoRepo.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Repos\\RepartoRepo.cs",
+              "RelativeDocumentMoniker": "task_ferramenta\\Repos\\RepartoRepo.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Repos\\RepartoRepo.cs",
+              "RelativeToolTip": "task_ferramenta\\Repos\\RepartoRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T17:07:34.315Z"
+              "WhenOpened": "2024-10-11T17:49:24.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepartoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Controllers\\RepartoController.cs",
+              "RelativeDocumentMoniker": "task_ferramenta\\Controllers\\RepartoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Controllers\\RepartoController.cs",
+              "RelativeToolTip": "task_ferramenta\\Controllers\\RepartoController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:42:20.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Repos\\IRepos.cs",
+              "RelativeDocumentMoniker": "task_ferramenta\\Repos\\IRepos.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Repos\\IRepos.cs",
+              "RelativeToolTip": "task_ferramenta\\Repos\\IRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T17:47:14.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RepartoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Models\\RepartoDTO.cs",
+              "RelativeDocumentMoniker": "task_ferramenta\\Models\\RepartoDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\Tasks_13SETT\\task_ferramenta\\task_ferramenta\\Models\\RepartoDTO.cs",
+              "RelativeToolTip": "task_ferramenta\\Models\\RepartoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T18:15:32.535Z"
             }
           ]
         }

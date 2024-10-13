@@ -37,7 +37,7 @@ namespace task_ferramenta.Services
 
         public IEnumerable<ProdottoDTO> Inventario()
         {
-            ICollection<ProdottoDTO?> risultato = new List<ProdottoDTO>();
+            ICollection<ProdottoDTO> risultato = new List<ProdottoDTO>();
 
             IEnumerable<Prodotto> prodotti = _repository.GetAll();
 
@@ -63,11 +63,11 @@ namespace task_ferramenta.Services
         {
             Prodotto pr = new Prodotto()
             {
-                CodiceBarre=nuovoProd.Cod is not null ? nuovoProd.Cod : Guid.NewGuid().ToString(),
-                Nome=nuovoProd.Nom,
-                Descrizione=nuovoProd.Desc,
-                Prezzo=nuovoProd.Prez,
-                Quantita=(int)nuovoProd.Quan,
+                CodiceBarre = nuovoProd.Cod is not null ? nuovoProd.Cod : Guid.NewGuid().ToString().ToUpper(),
+                Nome = nuovoProd.Nom!,
+                Descrizione = nuovoProd.Desc,
+                Prezzo  = nuovoProd.Prez,
+                Quantita = (int)nuovoProd.Quan!,
             };
 
             return _repository.Create(pr);
@@ -93,15 +93,13 @@ namespace task_ferramenta.Services
 
         public bool Modifica(ProdottoDTO prodMod)
         {
-            bool risultato = false;
 
 
             Prodotto temp = new Prodotto()
             {
                 Prezzo = prodMod.Prez,
-                Quantita = (int)prodMod.Quan
+                Quantita = (int)prodMod.Quan!
             };
-
             return _repository.Update(temp);
         }
 

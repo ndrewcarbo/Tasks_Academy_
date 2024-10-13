@@ -76,6 +76,7 @@ namespace task_ferramenta.Repos
         public IEnumerable<Prodotto> GetAll()
         {
             return _context.Prodottos.ToList();
+
         }
 
         public bool Update(Prodotto entity)

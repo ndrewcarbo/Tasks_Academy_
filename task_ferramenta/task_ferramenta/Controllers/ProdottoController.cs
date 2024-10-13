@@ -38,15 +38,21 @@ namespace task_ferramenta.Controllers
         [HttpPost]
         public IActionResult InserisciProdotto(ProdottoDTO nuovoProd)
         {
-            if(string.IsNullOrWhiteSpace(nuovoProd.Nom) || string.IsNullOrWhiteSpace(nuovoProd.Desc) || nuovoProd.Prez < 0 || nuovoProd.Quan < 0)
-                return BadRequest();
+            //if(string.IsNullOrWhiteSpace(nuovoProd.Nom) && string.IsNullOrWhiteSpace(nuovoProd.Desc) && nuovoProd.Prez < 0 && nuovoProd.Quan < 0)
             
-            bool risultato = _service.InserisciProdotto(nuovoProd);
-
-            if (risultato)
+                if (_service.InserisciProdotto(nuovoProd))
                 return Ok();
 
-            return BadRequest();
+
+                return BadRequest();
+
+            
+            //bool risultato = _service.InserisciProdotto(nuovoProd);
+
+            //if (risultato)
+            //    return Ok();
+
+            //return BadRequest();
         }
 
         [HttpDelete]

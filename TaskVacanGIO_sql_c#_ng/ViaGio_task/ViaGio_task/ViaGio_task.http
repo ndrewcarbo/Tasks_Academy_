@@ -1,0 +1,6 @@
+@ViaGio_task_HostAddress = http://localhost:5212
+
+GET {{ViaGio_task_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

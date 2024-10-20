@@ -1,0 +1,299 @@
+[
+  {
+    "ContainingType": "ViaGio_task.Controllers.DestinazioneController",
+    "Method": "ListaDestinazioni",
+    "RelativePath": "api/destinazioni",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ViaGio_task.Models.DestinazioneDTO, ViaGio_task, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.DestinazioneController",
+    "Method": "InserisciDestinazione",
+    "RelativePath": "api/destinazioni",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "obj",
+        "Type": "ViaGio_task.Models.DestinazioneDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.DestinazioneController",
+    "Method": "CercaDestinazione",
+    "RelativePath": "api/destinazioni/{varNome}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varNome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ViaGio_task.Models.DestinazioneDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.DestinazioneController",
+    "Method": "EliminaDestinazione",
+    "RelativePath": "api/destinazioni/{varNome}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varNome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.DestinazioneController",
+    "Method": "AggiornaDestinazione",
+    "RelativePath": "api/destinazioni/{varNome}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varNome",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "objDes",
+        "Type": "ViaGio_task.Models.DestinazioneDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.PacchettoController",
+    "Method": "ListaPacchetti",
+    "RelativePath": "api/pacchetti",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ViaGio_task.Models.PacchettoDTO, ViaGio_task, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.PacchettoController",
+    "Method": "InserisciPachetto",
+    "RelativePath": "api/pacchetti",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "obj",
+        "Type": "ViaGio_task.Models.PacchettoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.PacchettoController",
+    "Method": "EliminaPacchetto",
+    "RelativePath": "api/pacchetti",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.PacchettoController",
+    "Method": "VisualizzaPacchetto",
+    "RelativePath": "api/pacchetti/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ViaGio_task.Models.PacchettoDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.PacchettoController",
+    "Method": "AggiornaPacchetto",
+    "RelativePath": "api/pacchetti/{varCodice}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "pacDto",
+        "Type": "ViaGio_task.Models.PacchettoDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.RecensioniController",
+    "Method": "ListaRecensioni",
+    "RelativePath": "api/recensioni",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ViaGio_task.Models.RecensioneDTO, ViaGio_task, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.RecensioniController",
+    "Method": "InserisciRecensione",
+    "RelativePath": "api/recensioni",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "obj",
+        "Type": "ViaGio_task.Models.RecensioneDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.RecensioniController",
+    "Method": "VisualizzaRecensione",
+    "RelativePath": "api/recensioni/{varCodice}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ViaGio_task.Models.RecensioneDTO",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.RecensioniController",
+    "Method": "EliminaRecensione",
+    "RelativePath": "api/recensioni/{varCodice}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ViaGio_task.Controllers.RecensioniController",
+    "Method": "AggiornaCliente",
+    "RelativePath": "api/recensioni/{varCodice}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "varCodice",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "objRec",
+        "Type": "ViaGio_task.Models.RecensioneDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,12 +1,194 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_officina\\task_officina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|solutionrelative:task_officina\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_officina\\task_officina\\controllers\\interventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|solutionrelative:task_officina\\controllers\\interventocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_officina\\task_officina\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|solutionrelative:task_officina\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_officina\\task_officina\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|solutionrelative:task_officina\\services\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_officina\\task_officina\\services\\interventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|solutionrelative:task_officina\\services\\interventoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_officina\\task_officina\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|solutionrelative:task_officina\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_officina\\task_officina\\models\\interventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|solutionrelative:task_officina\\models\\interventodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_officina\\task_officina\\repository\\clienterepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|solutionrelative:task_officina\\repository\\clienterepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|c:\\users\\utente\\desktop\\ava_iemme\\task_officina\\task_officina\\repository\\interventorepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F92C01A-B3FB-47DC-9B99-C586209716A5}|task_officina\\task_officina.csproj|solutionrelative:task_officina\\repository\\interventorepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Services\\IService.cs",
+              "RelativeDocumentMoniker": "task_officina\\Services\\IService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Services\\IService.cs",
+              "RelativeToolTip": "task_officina\\Services\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:31:33.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Repository\\ClienteRepos.cs",
+              "RelativeDocumentMoniker": "task_officina\\Repository\\ClienteRepos.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Repository\\ClienteRepos.cs",
+              "RelativeToolTip": "task_officina\\Repository\\ClienteRepos.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:03:50.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "task_officina\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Services\\ClienteService.cs",
+              "RelativeToolTip": "task_officina\\Services\\ClienteService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAA2wFsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:04:42.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InterventoService.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Services\\InterventoService.cs",
+              "RelativeDocumentMoniker": "task_officina\\Services\\InterventoService.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Services\\InterventoService.cs",
+              "RelativeToolTip": "task_officina\\Services\\InterventoService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA0wGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:04:28.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InterventoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Controllers\\InterventoController.cs",
+              "RelativeDocumentMoniker": "task_officina\\Controllers\\InterventoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Controllers\\InterventoController.cs",
+              "RelativeToolTip": "task_officina\\Controllers\\InterventoController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:05:18.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "task_officina\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "task_officina\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAYwEUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:05:02.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Program.cs",
+              "RelativeDocumentMoniker": "task_officina\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Program.cs",
+              "RelativeToolTip": "task_officina\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:05:32.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InterventoRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Repository\\InterventoRepos.cs",
+              "RelativeDocumentMoniker": "task_officina\\Repository\\InterventoRepos.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Repository\\InterventoRepos.cs",
+              "RelativeToolTip": "task_officina\\Repository\\InterventoRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T18:03:37.853Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6acaa9f5-d75e-469a-9dd6-b0634f915180",
+        "Display": 0,
+        "X": 838,
+        "Y": 64,
+        "Width": 1328,
+        "Height": 711,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InterventoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Models\\InterventoDTO.cs",
+              "RelativeDocumentMoniker": "task_officina\\Models\\InterventoDTO.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\task_officina\\task_officina\\Models\\InterventoDTO.cs",
+              "RelativeToolTip": "task_officina\\Models\\InterventoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:17:00.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

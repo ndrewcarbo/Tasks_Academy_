@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\models\\recensione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\models\\recensione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\models\\pacchetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\models\\pacchetto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\services\\recensioniservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\services\\recensioniservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\controllers\\recensionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\controllers\\recensionicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\services\\pacchettoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\services\\pacchettoservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\controllers\\pacchettocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\controllers\\pacchettocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\controllers\\destinazionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\controllers\\destinazionecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\services\\destinazioneservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\services\\destinazioneservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\repositories\\destinazionerepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\repositories\\destinazionerepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\repositories\\pacchettorepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\repositories\\pacchettorepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\services\\iservicelettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\context\\viagiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\context\\viagiocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\repositories\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\repositories\\irepolettura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\services\\iservicescrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\repositories\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\repositories\\ireposcrittura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|c:\\users\\utente\\desktop\\ava_iemme\\viagio_task\\viagio_task\\models\\destpacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E16A013-822F-45BD-A8DB-D71BC713983D}|ViaGio_task\\ViaGio_task.csproj|solutionrelative:viagio_task\\models\\destpacc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 453,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DestinazioneController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Controllers\\DestinazioneController.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Controllers\\DestinazioneController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Controllers\\DestinazioneController.cs",
+              "RelativeToolTip": "ViaGio_task\\Controllers\\DestinazioneController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwFQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:00:29.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pacchetto.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Models\\Pacchetto.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Models\\Pacchetto.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Models\\Pacchetto.cs",
+              "RelativeToolTip": "ViaGio_task\\Models\\Pacchetto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:30:39.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PacchettoRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Repositories\\PacchettoRepos.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Repositories\\PacchettoRepos.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Repositories\\PacchettoRepos.cs",
+              "RelativeToolTip": "ViaGio_task\\Repositories\\PacchettoRepos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:48:36.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DestinazioneRepos.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Repositories\\DestinazioneRepos.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Repositories\\DestinazioneRepos.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Repositories\\DestinazioneRepos.cs",
+              "RelativeToolTip": "ViaGio_task\\Repositories\\DestinazioneRepos.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAjwCMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:50:11.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecensioniController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Controllers\\RecensioniController.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Controllers\\RecensioniController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Controllers\\RecensioniController.cs",
+              "RelativeToolTip": "ViaGio_task\\Controllers\\RecensioniController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:02:24.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PacchettoController.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Controllers\\PacchettoController.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Controllers\\PacchettoController.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Controllers\\PacchettoController.cs",
+              "RelativeToolTip": "ViaGio_task\\Controllers\\PacchettoController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwEkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:51:43.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Recensione.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Models\\Recensione.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Models\\Recensione.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Models\\Recensione.cs",
+              "RelativeToolTip": "ViaGio_task\\Models\\Recensione.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:38:47.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacchettoServices.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Services\\PacchettoServices.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Services\\PacchettoServices.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Services\\PacchettoServices.cs",
+              "RelativeToolTip": "ViaGio_task\\Services\\PacchettoServices.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T20:37:03.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecensioniServices.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Services\\RecensioniServices.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Services\\RecensioniServices.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Services\\RecensioniServices.cs",
+              "RelativeToolTip": "ViaGio_task\\Services\\RecensioniServices.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T09:04:21.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Program.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Program.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Program.cs",
+              "RelativeToolTip": "ViaGio_task\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:44:08.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DestinazioneServices.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Services\\DestinazioneServices.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Services\\DestinazioneServices.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Services\\DestinazioneServices.cs",
+              "RelativeToolTip": "ViaGio_task\\Services\\DestinazioneServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T08:02:26.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IServiceLettura.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Services\\IServiceLettura.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Services\\IServiceLettura.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Services\\IServiceLettura.cs",
+              "RelativeToolTip": "ViaGio_task\\Services\\IServiceLettura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:31:44.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ViaGioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Context\\ViaGioContext.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Context\\ViaGioContext.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Context\\ViaGioContext.cs",
+              "RelativeToolTip": "ViaGio_task\\Context\\ViaGioContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:25:00.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepoLettura.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Repositories\\IRepoLettura.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Repositories\\IRepoLettura.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Repositories\\IRepoLettura.cs",
+              "RelativeToolTip": "ViaGio_task\\Repositories\\IRepoLettura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:11:39.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IServiceScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Services\\IServiceScrittura.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Services\\IServiceScrittura.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Services\\IServiceScrittura.cs",
+              "RelativeToolTip": "ViaGio_task\\Services\\IServiceScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:52:12.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepoScrittura.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Repositories\\IRepoScrittura.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Repositories\\IRepoScrittura.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Repositories\\IRepoScrittura.cs",
+              "RelativeToolTip": "ViaGio_task\\Repositories\\IRepoScrittura.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:11:51.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DestPacc.cs",
+              "DocumentMoniker": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Models\\DestPacc.cs",
+              "RelativeDocumentMoniker": "ViaGio_task\\Models\\DestPacc.cs",
+              "ToolTip": "C:\\Users\\Utente\\Desktop\\ava_iemme\\ViaGio_task\\ViaGio_task\\Models\\DestPacc.cs",
+              "RelativeToolTip": "ViaGio_task\\Models\\DestPacc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T19:07:38.155Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

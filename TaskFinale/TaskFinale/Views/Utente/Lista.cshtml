@@ -1,0 +1,24 @@
+﻿@model List<Utente>
+
+<div class="container">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Codice</th>
+                <th>Username</th>
+                <th>Email</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Utente u in Model)
+            {
+                <tr>
+                    <td>@u.Codice</td>
+                    <td>@u.Username</td>
+                    <td>@u.Email</td>
+                </tr>
+            }
+
+        </tbody>
+   </table>
+</div>

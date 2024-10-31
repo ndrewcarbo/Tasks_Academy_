@@ -1,4 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.IdentityModel.Tokens;
+using System.IdentityModel.Tokens.Jwt;
+using System.Security.Claims;
+using System.Text;
 using TaskFinale.Models;
 using TaskFinale.Services;
 
@@ -13,9 +17,45 @@ namespace TaskFinale.Controllers
             _serviceADM = service;
         }
 
-        public IActionResult Login()
+
+        [HttpPost]
+        public IActionResult Login(Login objLogin)
         {
-            return View();
+            if (string.IsNullOrWhiteSpace(objLogin.Username) || string.IsNullOrWhiteSpace(objLogin.Password))
+                return BadRequest();
+
+            if (objLogin.Username == "Andrea" && objLogin.Password == "pipe")
+            {
+                objLogin.UserType = "ADMIN";
+            }
+            if (objLogin.Username == "PROFGiovanni" && objLogin.Password == "genio")
+            {
+                objLogin.UserType = "USER";
+            }
+
+            if (objLogin.UserType is not null)
+            {
+                List<Claim> claimsList = new List<Claim>()
+                {
+                    new Claim(JwtRegisteredClaimNames.Sub, objLogin.Username),
+                    new Claim("userType", objLogin.UserType),
+                };
+
+                var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("scrivi_Qualcosa_Ma_Cosa"));
+                var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+
+                var token = new JwtSecurityToken(
+                    issuer: "taskfinale.com",
+                    audience: "Sudditi",
+                    claims: claimsList,
+                    expires: DateTime.Now.AddHours(1),
+                    signingCredentials: creds
+                );
+
+                return Ok(new { token = new JwtSecurityTokenHandler().WriteToken(token) });
+            }
+
+            return NotFound();
         }
 
         [HttpPost]

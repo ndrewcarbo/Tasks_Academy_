@@ -10,6 +10,7 @@ namespace TaskFinale.Controllers
     {
 
         private readonly UtenteApiService _serviceAPI;
+        
 
         public UtenteApiController(UtenteApiService service)
         {
@@ -20,6 +21,22 @@ namespace TaskFinale.Controllers
         public ActionResult<IEnumerable<UtenteDTO>> Lista()
         {
             return Ok(_serviceAPI.List());
+        }
+
+
+        [HttpPost]
+        public IActionResult Inserisci(UtenteDTO utDTO)
+        {
+            if (
+                string.IsNullOrWhiteSpace(utDTO.Username) ||
+                string.IsNullOrWhiteSpace(utDTO.Passw) ||
+                string.IsNullOrWhiteSpace(utDTO.Email))
+                return BadRequest();
+
+            if (_serviceAPI.Insert(utDTO))
+                return Ok();
+
+            return BadRequest();
         }
 
     }

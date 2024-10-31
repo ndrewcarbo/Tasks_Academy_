@@ -1,4 +1,6 @@
 using Microsoft.EntityFrameworkCore;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 using TaskFinale.Context;
 using TaskFinale.Repos;
 using TaskFinale.Services;
@@ -40,6 +42,21 @@ namespace TaskFinale
             {
                 options.IdleTimeout = TimeSpan.FromMinutes(30);
             });
+
+            builder.Services.AddAuthentication().AddJwtBearer(options =>
+            {
+                options.TokenValidationParameters = new TokenValidationParameters
+                {
+                    ValidateIssuer = true,
+                    ValidateAudience = true,
+                    ValidateLifetime = true,
+                    ValidateIssuerSigningKey = true,
+                    ValidIssuer = "taskfinale.com",
+                    ValidAudience = "Sudditi",
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("scrivi_Qualcosa_Ma_Cosa"))
+                };
+            });
+
 
             var app = builder.Build();
 

@@ -1,0 +1,24 @@
+﻿@model UtenteDTO; 
+
+<div class="container">
+    <h1>NUOVO UTENTE</h1>
+
+    <form method="post" asp-controller="Utente" asp-action="Invia">
+        <div class="form-group">
+            <label for="Username">Username</label>
+            <input type="text" required class="form-control" asp-for=Username />
+        </div>
+        <div class="form-group">
+            <label for="Email">Email</label>
+            <input type="email" required class="form-control" asp-for=Email />
+        </div>
+        <div class="form-group">
+            <label for="Passw">Password</label>
+            <input type="password" required class="form-control" asp-for=Passw />
+        </div>
+
+
+        <button type="submit" class="btn btn-primary mt-3">Invia</button>
+    </form>
+
+</div>

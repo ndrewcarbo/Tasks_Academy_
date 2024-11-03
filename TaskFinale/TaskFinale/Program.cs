@@ -46,14 +46,12 @@ namespace TaskFinale
                     ValidateIssuerSigningKey = true,
                     ValidIssuer = "http://localhost:5292",
                     ValidAudience = "Sudditi",
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("una_chiave_segreta_lunga_32_byte"))
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("giovanni_genio_giovanni_genio_giovanni_genio_giovanni_genio_giovanni_genio"))
                 };
             });
 
             var app = builder.Build();
 
-            // cors
-            app.UseCors(builder => builder.WithOrigins("http://localhost:5292").AllowAnyMethod().AllowAnyHeader());
 
             // Configura la pipeline delle richieste HTTP.
             if (!app.Environment.IsDevelopment())
@@ -62,11 +60,17 @@ namespace TaskFinale
             }
 
             app.UseStaticFiles();
+
             app.UseRouting();
 
-            app.UseAuthentication();
+           // app.UseAuthentication();
             app.UseAuthorization();
             app.UseSession();
+
+
+            app.UseCors(builder =>
+            builder.WithOrigins("*").AllowAnyMethod().AllowAnyHeader()
+            );
 
             app.MapControllerRoute(
                 name: "default",

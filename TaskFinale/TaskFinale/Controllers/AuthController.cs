@@ -8,79 +8,51 @@ using TaskFinale.Services;
 
 namespace TaskFinale.Controllers
 {
+
+    [ApiController]
+    [Route("api/[controller]")]
     public class AuthController : Controller
     {
-        private readonly AmministratoreServices _serviceADM;
-
-        public AuthController(AmministratoreServices service)
+        [HttpPost("login")]             
+        public IActionResult Login(Login objLogin)
         {
-            _serviceADM = service;
-        }
+            if (string.IsNullOrWhiteSpace(objLogin.Username) || string.IsNullOrWhiteSpace(objLogin.Password))
+                return BadRequest();
 
-        [HttpGet]
-        public IActionResult Login()
-        {
-            return View();
-        }
-
-
-        //[HttpPost]
-        //public IActionResult Login(Login objLogin)
-        //{
-        //    if (string.IsNullOrWhiteSpace(objLogin.Username) || string.IsNullOrWhiteSpace(objLogin.Password))
-        //        return BadRequest();
-
-        //    if (objLogin.Username == "Andrea" && objLogin.Password == "pipe")
-        //    {
-        //        objLogin.UserType = "ADMIN";
-        //    }
-        //    if (objLogin.Username == "PROFGiovanni" && objLogin.Password == "genio")
-        //    {
-        //        objLogin.UserType = "USER";
-        //    }
-
-        //    if (objLogin.UserType is not null)
-        //    {
-        //        List<Claim> claimsList = new List<Claim>()
-        //        {
-        //            new Claim(JwtRegisteredClaimNames.Sub, objLogin.Username),
-        //            new Claim("userType", objLogin.UserType),
-        //        };
-
-        //        var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("scrivi_Qualcosa_Ma_Cosa_si_infatti"));
-        //        var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
-
-        //        var token = new JwtSecurityToken(
-        //            issuer: "taskfinale.com",
-        //            audience: "Sudditi",
-        //            claims: claimsList,
-        //            expires: DateTime.Now.AddHours(1),
-        //            signingCredentials: creds
-        //        );
-
-        //        return Ok(new { token = new JwtSecurityTokenHandler().WriteToken(token) });
-        //    }
-
-        //    return NotFound();
-        //}
-
-
-
-
-        [HttpPost]
-        public IActionResult Verificato(AmministratoreDTO adDto)
-        {
-
-            if (string.IsNullOrWhiteSpace(adDto.Username) || string.IsNullOrWhiteSpace(adDto.Passw))
-                return Redirect("/Auth/Login");
-
-            if (_serviceADM.VerificaUsernamePassword(adDto))
+            if (objLogin.Username == "Andrea" && objLogin.Password == "pipe")
             {
-                HttpContext.Session.SetString("userLogged", "ADMIN");
-                return Redirect("/Admin/Lista");
+                objLogin.UserType = "ADMIN";
+            }
+            if (objLogin.Username == "Giovanni" && objLogin.Password == "Genius")
+            {
+                objLogin.UserType = "USER";
             }
 
-            return Redirect("/Auth/Login");
+            if (objLogin.UserType is not null)
+            {
+                List<Claim> claimsList = new List<Claim>()
+                {
+                    new Claim(JwtRegisteredClaimNames.Sub, objLogin.Username),
+                    new Claim("userType", objLogin.UserType),
+                    //new Claim(JwtRegisteredClaimNames.Jti, Guid.NewGuid().ToString())
+                };
+
+                var key = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("giovanni_genio_giovanni_genio_giovanni_genio_giovanni_genio_giovanni_genio"));
+                var creds = new SigningCredentials(key, SecurityAlgorithms.HmacSha256);
+
+                var token = new JwtSecurityToken(
+                    issuer: "http://localhost:5292",
+                    audience: "Sudditi",
+                    claims: claimsList,
+                    expires: DateTime.Now.AddHours(1),
+                    signingCredentials: creds
+                );
+
+                return Ok(new { token = new JwtSecurityTokenHandler().WriteToken(token) });
+            }
+
+            return NotFound();
         }
     }
+
 }

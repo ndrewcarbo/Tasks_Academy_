@@ -5,7 +5,7 @@ using TaskFinale.Services;
 namespace TaskFinale.Controllers
 {
     [ApiController]
-    [Route("api/utente")]
+    [Route("api/profilo")]
     public class UtenteApiController : Controller
     {
 
